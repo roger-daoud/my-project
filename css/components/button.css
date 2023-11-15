@@ -1,0 +1,12 @@
+.btn-green {
+    background-color: #759500;
+    padding: 20px 30px;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Yeseva One';
+}
+
+.btn-green:hover {
+    background-color:rgba(24, 37, 0, 0.5);
+}
